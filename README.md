@@ -1,8 +1,10 @@
 # activitypub-relays
 
+if you want to add a relay to your:
 
-- if you want to add a relay to your mastodon instance ----> copy the URL as it 
-- if you want to add a relay to your pleroma instance ----> copy the URL & replace inbox with *actor*
+- mastodon instance ----> copy the URL as it 
+- pleroma instance ----> copy the URL & replace inbox with *actor*
+
 
 ## active working relays
 ```
