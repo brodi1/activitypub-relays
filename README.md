@@ -21,6 +21,7 @@ https://relay.intahnet.co.uk/inbox
 https://ap-relay-ger.650thz.de/inbox
 https://relay.my-wan.de/inbox
 https://relay.beckmeyer.us/inbox
+https://relay.shittyurl.org/inbox
 
 ```
 
