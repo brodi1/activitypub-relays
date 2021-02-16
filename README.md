@@ -20,6 +20,7 @@ https://relay.fedibird.com/inbox
 https://relay.intahnet.co.uk/inbox
 https://ap-relay-ger.650thz.de/inbox
 https://relay.my-wan.de/inbox
+https://relay.beckmeyer.us/inbox
 
 ```
 
@@ -32,5 +33,10 @@ https://relay.asonix.dog/inbox
 https://relay.kamp.site/inbox
 https://relay.paw.cafe/inbox
 https://relay.cetialphafive.com/inbox
+https://relay.travnewmatic.com/inbox
+https://vtlay.polyohm.net/inbox
+https://relay.fedi.network/inbox
+https://relay.cetialphafive.com/inbox
+https://relay.cyber-tribal.com/inbox
 
 ```
