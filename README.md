@@ -39,5 +39,6 @@ https://vtlay.polyohm.net/inbox
 https://relay.fedi.network/inbox
 https://relay.cetialphafive.com/inbox
 https://relay.cyber-tribal.com/inbox
+https://ap-relay.herokuapp.com/inbox
 
 ```
