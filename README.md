@@ -6,7 +6,7 @@ if you want to add a relay to your:
 - pleroma instance ----> copy the URL & replace inbox with *actor*
 
 
-## active working relays
+## ✅ active working relays
 ```
 https://ap-relay.brodi.space/inbox
 https://relay.nazrin.moe/inbox
@@ -26,7 +26,7 @@ https://relay.beckmeyer.us/inbox
 
 
 
-## relays that DON'T work
+## ❌ relays that DON'T work
 ```
 https://relay.loliday.cn/inbox
 https://relay.asonix.dog/inbox
