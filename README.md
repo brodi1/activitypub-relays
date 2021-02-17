@@ -1,4 +1,4 @@
-# activitypub-relays
+# ↪️ activitypub-relays
 
 if you want to add a relay to your:
 
