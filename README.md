@@ -11,7 +11,6 @@ if you want to add a relay to your:
 https://ap-relay.brodi.space/inbox
 https://relay.nazrin.moe/inbox
 https://relay.libranet.de/inbox
-https://relay.masto.tech/inbox
 https://relay.101010.pl/inbox
 https://relay1.mastodon.ml/inbox
 https://relay2.mastodon.ml/inbox
@@ -40,5 +39,6 @@ https://relay.fedi.network/inbox
 https://relay.cetialphafive.com/inbox
 https://relay.cyber-tribal.com/inbox
 https://ap-relay.herokuapp.com/inbox
+https://relay.masto.tech/inbox
 
 ```
