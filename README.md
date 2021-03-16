@@ -12,15 +12,17 @@ https://ap-relay.brodi.space/inbox
 https://relay.nazrin.moe/inbox
 https://relay.libranet.de/inbox
 https://relay.101010.pl/inbox
-https://relay1.mastodon.ml/inbox
 https://relay2.mastodon.ml/inbox
 https://relay.toot.yukimochi.jp/inbox
 https://relay.fedibird.com/inbox
 https://relay.intahnet.co.uk/inbox
 https://ap-relay-ger.650thz.de/inbox
-https://relay.my-wan.de/inbox
 https://relay.beckmeyer.us/inbox
 https://relay.shittyurl.org/inbox
+https://mastodon-relay.moew.science/inbox
+https://relay.travnewmatic.com/inbox
+https://relay.social.tigwali.fr/inbox
+https://mastodon-relay.thedoodleproject.net/inbox
 
 ```
 
@@ -40,5 +42,7 @@ https://relay.cetialphafive.com/inbox
 https://relay.cyber-tribal.com/inbox
 https://ap-relay.herokuapp.com/inbox
 https://relay.masto.tech/inbox
+https://relay1.mastodon.ml/inbox
+https://relay.my-wan.de/inbox
 
 ```
