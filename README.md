@@ -44,5 +44,7 @@ https://ap-relay.herokuapp.com/inbox
 https://relay.masto.tech/inbox
 https://relay1.mastodon.ml/inbox
 https://relay.my-wan.de/inbox
+https://relay.fedi.network/inbox
+https://relay.fedinoc.de/inbox
 
 ```
