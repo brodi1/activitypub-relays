@@ -2,7 +2,7 @@
 
 if you want to add a relay to your:
 
-- mastodon instance ----> copy the URL as it 
+- mastodon instance ----> copy the URL as it is
 - pleroma instance ----> copy the URL & replace inbox with *actor*
 
 
