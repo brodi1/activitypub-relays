@@ -27,6 +27,8 @@ https://relay.minecloud.ro/inbox
 https://relay.fedi.agency/inbox
 https://relay.phreedom.club/inbox
 https://relay.blob.cat/inbox
+https://relay.social.firc.de/inbox
+https://relay.mastodon.libresilicon.com/inbox
 https://relay.chemnitz.social/inbox
 https://relay.darmstadt.social/inbox
 
