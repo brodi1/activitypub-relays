@@ -23,19 +23,22 @@ https://mastodon-relay.moew.science/inbox
 https://relay.travnewmatic.com/inbox
 https://relay.social.tigwali.fr/inbox
 https://mastodon-relay.thedoodleproject.net/inbox
+https://relay.minecloud.ro/inbox
+https://relay.fedi.agency/inbox
+https://relay.phreedom.club/inbox
+https://relay.blob.cat/inbox
+https://relay.chemnitz.social/inbox
+https://relay.darmstadt.social/inbox
 
 ```
-
 
 
 ## ❌ relays that DON'T work
 ```
-https://relay.loliday.cn/inbox
 https://relay.asonix.dog/inbox
 https://relay.kamp.site/inbox
 https://relay.paw.cafe/inbox
 https://relay.cetialphafive.com/inbox
-https://relay.travnewmatic.com/inbox
 https://vtlay.polyohm.net/inbox
 https://relay.fedi.network/inbox
 https://relay.cetialphafive.com/inbox
