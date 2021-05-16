@@ -47,9 +47,7 @@ https://rrfarmbot.appspot.com/inbox
 ```
 https://ap-relay.herokuapp.com/inbox
 https://relay.cetialphafive.com/inbox
-https://relay.cetialphafive.com/inbox
 https://relay.cyber-tribal.com/inbox
-https://relay.fedi.network/inbox
 https://relay.fedi.network/inbox
 https://relay.fedinoc.de/inbox
 https://relay.kamp.site/inbox
