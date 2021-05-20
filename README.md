@@ -15,7 +15,6 @@ https://mastodon-relay.thedoodleproject.net/inbox
 https://relay.101010.pl/inbox
 https://relay.beckmeyer.us/inbox
 https://relay.blob.cat/inbox
-https://relay.civiq.social/inbox
 https://relay.fedi.agency/inbox
 https://relay.fedibird.com/inbox
 https://relay.homunyan.com/inbox
@@ -48,6 +47,7 @@ https://rrfarmbot.appspot.com/inbox
 ```
 https://ap-relay.herokuapp.com/inbox
 https://relay.cetialphafive.com/inbox
+https://relay.civiq.social/inbox
 https://relay.cyber-tribal.com/inbox
 https://relay.fedi.network/inbox
 https://relay.fedinoc.de/inbox
