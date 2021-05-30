@@ -28,7 +28,6 @@ https://relay.shittyurl.org/inbox
 https://relay.social.firc.de/inbox
 https://relay.social.tigwali.fr/inbox
 https://relay.toot.yukimochi.jp/inbox
-https://relay.travnewmatic.com/inbox
 https://relay2.mastodon.ml/inbox
 ```
 
@@ -57,6 +56,7 @@ https://relay.mastodon.eric.ovh/inbox
 https://relay.my-wan.de/inbox
 https://relay.paw.cafe/inbox
 https://relay.stacktonic.com.au/inbox
+https://relay.travnewmatic.com/inbox
 https://relay1.mastodon.ml/inbox
 https://vtlay.polyohm.net/inbox
 ```
