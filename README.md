@@ -53,10 +53,10 @@ https://relay.kamp.site/inbox
 https://relay.masto.tech/inbox
 https://relay.mastodon.eric.ovh/inbox
 https://relay.my-wan.de/inbox
-https://relay.nazrin.moe/inbox | Bad Gateway (HTTP Error 502)
+https://relay.nazrin.moe/inbox | 502 Bad Gateway
 https://relay.paw.cafe/inbox
 https://relay.stacktonic.com.au/inbox
-https://relay.travnewmatic.com/inbox
+https://relay.travnewmatic.com/inbox | 404 Not Found
 https://relay1.mastodon.ml/inbox
 https://vtlay.polyohm.net/inbox
 ```
