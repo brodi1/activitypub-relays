@@ -22,7 +22,6 @@ https://relay.intahnet.co.uk/inbox
 https://relay.libranet.de/inbox
 https://relay.mastodon.libresilicon.com/inbox
 https://relay.minecloud.ro/inbox
-https://relay.nazrin.moe/inbox
 https://relay.phreedom.club/inbox
 https://relay.shittyurl.org/inbox
 https://relay.social.firc.de/inbox
@@ -54,6 +53,7 @@ https://relay.kamp.site/inbox
 https://relay.masto.tech/inbox
 https://relay.mastodon.eric.ovh/inbox
 https://relay.my-wan.de/inbox
+https://relay.nazrin.moe/inbox | Bad Gateway (HTTP Error 502)
 https://relay.paw.cafe/inbox
 https://relay.stacktonic.com.au/inbox
 https://relay.travnewmatic.com/inbox
