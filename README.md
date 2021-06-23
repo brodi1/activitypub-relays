@@ -20,6 +20,7 @@ https://relay.fedibird.com/inbox
 https://relay.gidikroon.eu/inbox
 https://relay.homunyan.com/inbox
 https://relay.intahnet.co.uk/inbox
+https://relay.k3tan.com/inbox
 https://relay.libranet.de/inbox
 https://relay.mastodon.libresilicon.com/inbox
 https://relay.minecloud.ro/inbox
@@ -45,6 +46,7 @@ https://rrfarmbot.appspot.com/inbox
 ## ❌ relays that DON'T work
 ```
 https://ap-relay.herokuapp.com/inbox
+https://neighbours.aus.social/inbox | 502 Bad Gateway + SEC_ERROR_EXPIRED_CERTIFICATE since 30.3.2021
 https://relay.cetialphafive.com/inbox
 https://relay.chaos.is/inbox | 404 Not Found
 https://relay.civiq.social/inbox
@@ -52,8 +54,10 @@ https://relay.cyber-tribal.com/inbox
 https://relay.fedi.network/inbox
 https://relay.fedinoc.de/inbox | 404 Not Found
 https://relay.kamp.site/inbox
+https://relay.kemo.one/inbox | 525 No Reason Phrase (Cloudflare SSL handshake failed)
 https://relay.masto.tech/inbox
 https://relay.mastodon.eric.ovh/inbox
+https://relay.mastodonsocial.ru/inbox
 https://relay.my-wan.de/inbox
 https://relay.nazrin.moe/inbox | 502 Bad Gateway
 https://relay.paw.cafe/inbox
