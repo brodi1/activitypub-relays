@@ -12,6 +12,8 @@ https://ap-relay-ger.650thz.de/inbox
 https://ap-relay.brodi.space/inbox
 https://mastodon-relay.moew.science/inbox
 https://mastodon-relay.thedoodleproject.net/inbox
+https://neko-relay.com/inbox
+https://relay.0svc.com/inbox
 https://relay.101010.pl/inbox
 https://relay.beckmeyer.us/inbox
 https://relay.blob.cat/inbox
@@ -22,6 +24,8 @@ https://relay.homunyan.com/inbox
 https://relay.intahnet.co.uk/inbox
 https://relay.k3tan.com/inbox
 https://relay.libranet.de/inbox
+https://relay.masto.tech/inbox
+https://relay.mastodon.fun/inbox
 https://relay.mastodon.libresilicon.com/inbox
 https://relay.minecloud.ro/inbox
 https://relay.phreedom.club/inbox
@@ -38,12 +42,15 @@ https://relay.darmstadt.social/inbox
 https://relay.dog/inbox
 https://relay.kretschmann.social/inbox
 https://relay.mastodon.kr/inbox
+https://relay.mastodon.scot/inbox
+https://relay.nsupdate.info/inbox
 https://rrfarmbot.appspot.com/inbox
 ```
 
 ## ❌ relays that DON'T work
 ```
 https://ap-relay.herokuapp.com/inbox
+https://aprelay.thebackupbox.net/inbox | only shows your public IP 
 https://neighbours.aus.social/inbox | 502 Bad Gateway + SEC_ERROR_EXPIRED_CERTIFICATE since 30.3.2021
 https://relay.cetialphafive.com/inbox
 https://relay.chaos.is/inbox | 404 Not Found
