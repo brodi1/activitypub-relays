@@ -25,11 +25,9 @@ https://relay.libranet.de/inbox
 https://relay.mastodon.libresilicon.com/inbox
 https://relay.minecloud.ro/inbox
 https://relay.phreedom.club/inbox
-https://relay.shittyurl.org/inbox
 https://relay.social.firc.de/inbox
 https://relay.social.tigwali.fr/inbox
 https://relay.toot.yukimochi.jp/inbox
-https://relay2.mastodon.ml/inbox
 ```
 
 ## ❔ relays that maybe? work
@@ -61,8 +59,10 @@ https://relay.mastodonsocial.ru/inbox
 https://relay.my-wan.de/inbox
 https://relay.nazrin.moe/inbox | 502 Bad Gateway
 https://relay.paw.cafe/inbox
+https://relay.shittyurl.org/inbox | 502 Bad Gateway
 https://relay.stacktonic.com.au/inbox
 https://relay.travnewmatic.com/inbox | 404 Not Found
-https://relay1.mastodon.ml/inbox
+https://relay1.mastodon.ml/inbox | 502 Bad Gateway
+https://relay2.mastodon.ml/inbox | 502 Bad Gateway
 https://vtlay.polyohm.net/inbox
 ```
