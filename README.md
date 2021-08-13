@@ -10,6 +10,7 @@ if you want to add a relay to your:
 ```
 https://ap-relay-ger.650thz.de/inbox
 https://ap-relay.brodi.space/inbox
+https://aprelay.thebackupbox.net/inbox
 https://mastodon-relay.moew.science/inbox
 https://mastodon-relay.thedoodleproject.net/inbox
 https://neko-relay.com/inbox
@@ -36,6 +37,7 @@ https://relay.toot.yukimochi.jp/inbox
 
 ## ❔ relays that maybe? work
 ```
+https://ap-relay.herokuapp.com/inbox
 https://relay.asonix.dog/inbox
 https://relay.chemnitz.social/inbox
 https://relay.darmstadt.social/inbox
@@ -49,8 +51,6 @@ https://rrfarmbot.appspot.com/inbox
 
 ## ❌ relays that DON'T work
 ```
-https://ap-relay.herokuapp.com/inbox
-https://aprelay.thebackupbox.net/inbox | only shows your public IP 
 https://neighbours.aus.social/inbox | 502 Bad Gateway + SEC_ERROR_EXPIRED_CERTIFICATE since 30.3.2021
 https://relay.cetialphafive.com/inbox
 https://relay.chaos.is/inbox | 404 Not Found
