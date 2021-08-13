@@ -51,7 +51,7 @@ https://rrfarmbot.appspot.com/inbox
 
 ## ❌ relays that DON'T work
 ```
-https://neighbours.aus.social/inbox | 502 Bad Gateway + SEC_ERROR_EXPIRED_CERTIFICATE since 30.3.2021
+https://neighbours.aus.social/inbox
 https://relay.cetialphafive.com/inbox
 https://relay.chaos.is/inbox | 404 Not Found
 https://relay.civiq.social/inbox
