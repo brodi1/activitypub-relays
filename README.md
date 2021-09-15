@@ -40,19 +40,23 @@ https://relay2.mastodon.ml/inbox
 ## ❔ relays that maybe? work
 ```
 https://ap-relay.herokuapp.com/inbox
+https://relay.1d4.us/inbox
 https://relay.asonix.dog/inbox
 https://relay.chemnitz.social/inbox
 https://relay.darmstadt.social/inbox
 https://relay.dog/inbox
+https://relay.fediverse.life/inbox
 https://relay.kretschmann.social/inbox
 https://relay.mastodon.kr/inbox
 https://relay.mastodon.scot/inbox
+https://relay.nfld.uk/inbox
 https://relay.nsupdate.info/inbox
 https://rrfarmbot.appspot.com/inbox
 ```
 
 ## ❌ relays that DON'T work
 ```
+https://en.relay.friendi.ca/inbox | 502 Bad Gateway
 https://neighbours.aus.social/inbox
 https://relay.cetialphafive.com/inbox
 https://relay.chaos.is/inbox | 404 Not Found
