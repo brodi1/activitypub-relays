@@ -13,33 +13,27 @@ https://ap-relay.brodi.space/inbox
 https://aprelay.thebackupbox.net/inbox
 https://mastodon-relay.moew.science/inbox
 https://mastodon-relay.thedoodleproject.net/inbox
-https://neko-relay.com/inbox
-https://relay.0svc.com/inbox
 https://relay.101010.pl/inbox
 https://relay.beckmeyer.us/inbox
-https://relay.blob.cat/inbox
 https://relay.fedi.agency/inbox
 https://relay.fedibird.com/inbox
-https://relay.gidikroon.eu/inbox
 https://relay.homunyan.com/inbox
 https://relay.intahnet.co.uk/inbox
 https://relay.k3tan.com/inbox
 https://relay.libranet.de/inbox
-https://relay.masto.tech/inbox
-https://relay.mastodon.fun/inbox
 https://relay.mastodon.libresilicon.com/inbox
 https://relay.minecloud.ro/inbox
 https://relay.phreedom.club/inbox
 https://relay.social.firc.de/inbox
 https://relay.social.tigwali.fr/inbox
 https://relay.toot.yukimochi.jp/inbox
-https://relay1.mastodon.ml/inbox
 https://relay2.mastodon.ml/inbox
 ```
 
 ## ❔ relays that maybe? work
 ```
 https://ap-relay.herokuapp.com/inbox
+https://neko-relay.com/inbox
 https://relay.1d4.us/inbox
 https://relay.asonix.dog/inbox
 https://relay.chemnitz.social/inbox
@@ -58,16 +52,20 @@ https://rrfarmbot.appspot.com/inbox
 ```
 https://en.relay.friendi.ca/inbox | 502 Bad Gateway
 https://neighbours.aus.social/inbox
+https://relay.0svc.com/inbox | 404 Not Found
+https://relay.blob.cat/inbox | 502 Bad Gateway
 https://relay.cetialphafive.com/inbox
 https://relay.chaos.is/inbox | 404 Not Found
 https://relay.civiq.social/inbox
 https://relay.cyber-tribal.com/inbox
 https://relay.fedi.network/inbox
 https://relay.fedinoc.de/inbox | 404 Not Found
+https://relay.gidikroon.eu/inbox | 502 Bad Gatewayy
 https://relay.kamp.site/inbox
 https://relay.kemo.one/inbox | 525 No Reason Phrase (Cloudflare SSL handshake failed)
-https://relay.masto.tech/inbox
+https://relay.masto.tech/inbox | 404 Not Found
 https://relay.mastodon.eric.ovh/inbox
+https://relay.mastodon.fun/inbox | 404 Not Found
 https://relay.mastodonsocial.ru/inbox
 https://relay.my-wan.de/inbox
 https://relay.nazrin.moe/inbox | 502 Bad Gateway
@@ -75,5 +73,6 @@ https://relay.paw.cafe/inbox
 https://relay.shittyurl.org/inbox | 502 Bad Gateway
 https://relay.stacktonic.com.au/inbox
 https://relay.travnewmatic.com/inbox | 404 Not Found
+https://relay1.mastodon.ml/inbox | 502 Bad Gateway
 https://vtlay.polyohm.net/inbox
 ```
