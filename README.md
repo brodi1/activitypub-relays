@@ -11,6 +11,7 @@ if you want to add a relay to your:
 https://ap-relay-ger.650thz.de/inbox
 https://ap-relay.brodi.space/inbox
 https://aprelay.thebackupbox.net/inbox
+https://en.relay.friendi.ca/inbox
 https://mastodon-relay.moew.science/inbox
 https://mastodon-relay.thedoodleproject.net/inbox
 https://relay.101010.pl/inbox
@@ -51,7 +52,6 @@ https://rrfarmbot.appspot.com/inbox
 
 ## ❌ relays that DON'T work
 ```
-https://en.relay.friendi.ca/inbox | 502 Bad Gateway
 https://neighbours.aus.social/inbox
 https://relay.0svc.com/inbox | 404 Not Found
 https://relay.blob.cat/inbox | 502 Bad Gateway
