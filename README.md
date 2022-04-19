@@ -9,8 +9,6 @@ if you want to add a relay to your:
 ## ✅ active working relays
 ```
 https://ap-relay-ger.650thz.de/inbox
-https://ap-relay.brodi.space/inbox
-https://aprelay.thebackupbox.net/inbox
 https://en.relay.friendi.ca/inbox
 https://mastodon-relay.moew.science/inbox
 https://mastodon-relay.thedoodleproject.net/inbox
@@ -23,20 +21,16 @@ https://relay.homunyan.com/inbox
 https://relay.intahnet.co.uk/inbox
 https://relay.k3tan.com/inbox
 https://relay.libranet.de/inbox
-https://relay.mastodon.libresilicon.com/inbox
+https://relay.mas.to/inbox
 https://relay.minecloud.ro/inbox
-https://relay.phreedom.club/inbox
-https://relay.social.firc.de/inbox
 https://relay.social.tigwali.fr/inbox
 https://relay.toot.yukimochi.jp/inbox
-https://relay2.mastodon.ml/inbox
 ```
 
 ## ❔ relays that maybe? work
 ```
-https://ap-relay.herokuapp.com/inbox
-https://neko-relay.com/inbox
-https://relay.1d4.us/inbox
+https://ap-relay.brodi.space/inbox
+https://aprelay.thebackupbox.net/inbox
 https://relay.asonix.dog/inbox
 https://relay.chemnitz.social/inbox
 https://relay.darmstadt.social/inbox
@@ -44,16 +38,22 @@ https://relay.dog/inbox
 https://relay.fediverse.life/inbox
 https://relay.kretschmann.social/inbox
 https://relay.mastodon.kr/inbox
+https://relay.mastodon.libresilicon.com/inbox
 https://relay.mastodon.scot/inbox
 https://relay.nfld.uk/inbox
 https://relay.nsupdate.info/inbox
-https://rrfarmbot.appspot.com/inbox
+https://relay.phreedom.club/inbox
+https://relay.social.firc.de/inbox
+https://relay2.mastodon.ml/inbox
 ```
 
 ## ❌ relays that DON'T work
 ```
+https://ap-relay.herokuapp.com/inbox | Offline for maintenance
 https://neighbours.aus.social/inbox
+https://neko-relay.com/inbox | 502 Bad Gateway
 https://relay.0svc.com/inbox | 404 Not Found
+https://relay.1d4.us/inbox
 https://relay.blob.cat/inbox | 502 Bad Gateway
 https://relay.cetialphafive.com/inbox
 https://relay.chaos.is/inbox | 404 Not Found
@@ -75,5 +75,6 @@ https://relay.shittyurl.org/inbox | 502 Bad Gateway
 https://relay.stacktonic.com.au/inbox
 https://relay.travnewmatic.com/inbox | 404 Not Found
 https://relay1.mastodon.ml/inbox | 502 Bad Gateway
+https://rrfarmbot.appspot.com/inbox | 500 Server Error
 https://vtlay.polyohm.net/inbox
 ```
