@@ -8,12 +8,12 @@ if you want to add a relay to your:
 
 ## ✅ active working relays
 ```
-https://ap-relay-ger.650thz.de/inbox
 https://en.relay.friendi.ca/inbox
 https://mastodon-relay.moew.science/inbox
 https://mastodon-relay.thedoodleproject.net/inbox
 https://relay.101010.pl/inbox
 https://relay.beckmeyer.us/inbox
+https://relay.chocoflan.net/inbox
 https://relay.fedi.agency/inbox
 https://relay.fedibird.com/inbox
 https://relay.freespeech.club/inbox
