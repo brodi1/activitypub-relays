@@ -9,6 +9,7 @@ if you want to add a relay to your:
 ## ✅ active working relays
 ```
 https://en.relay.friendi.ca/inbox
+https://federation.stream/inbox
 https://mastodon-relay.moew.science/inbox
 https://mastodon-relay.thedoodleproject.net/inbox
 https://relay.101010.pl/inbox
@@ -21,7 +22,6 @@ https://relay.homunyan.com/inbox
 https://relay.intahnet.co.uk/inbox
 https://relay.k3tan.com/inbox
 https://relay.libranet.de/inbox
-https://relay.mas.to/inbox
 https://relay.minecloud.ro/inbox
 https://relay.social.tigwali.fr/inbox
 https://relay.toot.yukimochi.jp/inbox
