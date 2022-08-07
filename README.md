@@ -24,6 +24,7 @@ https://relay.intahnet.co.uk/inbox
 https://relay.k3tan.com/inbox
 https://relay.libranet.de/inbox
 https://relay.minecloud.ro/inbox
+https://relay.mistli.net/inbox
 https://relay.social.tigwali.fr/inbox
 https://relay.toot.yukimochi.jp/inbox
 ```
