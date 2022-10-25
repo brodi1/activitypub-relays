@@ -27,6 +27,7 @@ https://relay.minecloud.ro/inbox
 https://relay.mistli.net/inbox
 https://relay.social.tigwali.fr/inbox
 https://relay.toot.yukimochi.jp/inbox
+https://relay.retronerd.at/actor
 ```
 
 ## ❔ relays that maybe? work
