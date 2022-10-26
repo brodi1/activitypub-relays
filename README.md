@@ -11,7 +11,6 @@ if you want to add a relay to your:
 https://en.relay.friendi.ca/inbox
 https://federation.stream/inbox
 https://mastodon-relay.moew.science/inbox
-https://mastodon-relay.thedoodleproject.net/inbox
 https://relay.101010.pl/inbox
 https://relay.beckmeyer.us/inbox
 https://relay.chocoflan.net/inbox
@@ -53,8 +52,9 @@ https://relay2.mastodon.ml/inbox
 ## ❌ relays that DON'T work
 ```
 https://ap-relay.herokuapp.com/inbox | Offline for maintenance
+https://mastodon-relay.thedoodleproject.net | 502 Bad Gateway
 https://neighbours.aus.social/inbox
-https://neko-relay.com/inbox | 502 Bad Gateway
+https://neko-relay.com/inbox | 502  Bad Gateway
 https://relay.0svc.com/inbox | 404 Not Found
 https://relay.1d4.us/inbox
 https://relay.blob.cat/inbox | 502 Bad Gateway
