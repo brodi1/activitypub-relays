@@ -81,3 +81,8 @@ https://relay1.mastodon.ml/inbox | 502 Bad Gateway
 https://rrfarmbot.appspot.com/inbox | 500 Server Error
 https://vtlay.polyohm.net/inbox
 ```
+
+
+## Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/brodi1/activitypub-relays.svg)](https://starchart.cc/brodi1/activitypub-relays)
