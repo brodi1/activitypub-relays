@@ -29,7 +29,10 @@ https://relay.retronerd.at/actor
 https://relay.social.tigwali.fr/inbox
 https://relay.toot.yukimochi.jp/inbox
 ```
-
+## ✅🚫 relays that are restricted with allowlists
+```
+https://relay.mastodon.kr/inbox
+```
 ## ❔ relays that maybe? work
 ```
 https://ap-relay.brodi.space/inbox
@@ -40,7 +43,6 @@ https://relay.darmstadt.social/inbox
 https://relay.dog/inbox
 https://relay.fediverse.life/inbox
 https://relay.kretschmann.social/inbox
-https://relay.mastodon.kr/inbox
 https://relay.mastodon.libresilicon.com/inbox
 https://relay.mastodon.scot/inbox
 https://relay.nfld.uk/inbox
