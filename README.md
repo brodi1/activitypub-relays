@@ -28,6 +28,7 @@ https://relay.mistli.net/inbox
 https://relay.retronerd.at/actor
 https://relay.social.tigwali.fr/inbox
 https://relay.toot.yukimochi.jp/inbox
+https://relay.wagnersnetz.de/inbox
 ```
 ## ✅🚫 relays that are restricted with allowlists
 ```
