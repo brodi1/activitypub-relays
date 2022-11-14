@@ -40,7 +40,6 @@ https://relay.mastodon.kr/inbox
 ```
 ## ❔ relays that maybe? work
 ```
-https://ap-relay.brodi.space/inbox
 https://aprelay.thebackupbox.net/inbox
 https://relay.asonix.dog/inbox
 https://relay.chemnitz.social/inbox
