@@ -34,6 +34,7 @@ https://relay.wagnersnetz.de/inbox
 ```
 ## ✅🚫 relays that are restricted with allowlists
 ```
+https://federation.stream/inbox
 https://relay.mastodon.kr/inbox
 ```
 ## ❔ relays that maybe? work
