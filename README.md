@@ -19,6 +19,7 @@ https://relay.dresden.network/inbox
 https://relay.fedi.agency/inbox
 https://relay.fedibird.com/inbox
 https://relay.freespeech.club/inbox
+https://relay.froth.zone/
 https://relay.homunyan.com/inbox
 https://relay.intahnet.co.uk/inbox
 https://relay.k3tan.com/inbox
