@@ -31,6 +31,7 @@ https://relay.retronerd.at/actor
 https://relay.social.tigwali.fr/inbox
 https://relay.toot.yukimochi.jp/inbox
 https://relay.wagnersnetz.de/inbox
+https://relay.pissdichal.de/actor
 ```
 ## ✅🚫 relays that are restricted with allowlists
 ```
