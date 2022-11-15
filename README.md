@@ -42,7 +42,7 @@ https://relay.mastodon.kr/inbox
 ```
 https://aprelay.thebackupbox.net/inbox
 https://federation.stream/inbox | DNS can't be resolved at the moment
-https://relay.asonix.dog/inbox
+https://relay.asonix.dog/inbox | Owner is rather picky about instances that join, good luck.
 https://relay.chemnitz.social/inbox
 https://relay.darmstadt.social/inbox
 https://relay.dog/inbox
