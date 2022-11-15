@@ -35,12 +35,12 @@ https://relay.wagnersnetz.de/inbox
 ```
 ## ✅🚫 relays that are restricted with allowlists
 ```
-https://federation.stream/inbox
 https://relay.mastodon.kr/inbox
 ```
 ## ❔ relays that maybe? work
 ```
 https://aprelay.thebackupbox.net/inbox
+https://federation.stream/inbox | DNS can't be resolved at the moment
 https://relay.asonix.dog/inbox
 https://relay.chemnitz.social/inbox
 https://relay.darmstadt.social/inbox
