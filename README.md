@@ -27,12 +27,12 @@ https://relay.k3tan.com/inbox
 https://relay.libranet.de/inbox
 https://relay.minecloud.ro/inbox
 https://relay.mistli.net/inbox
+https://relay.mstdn.live/inbox
 https://relay.pissdichal.de/inbox
 https://relay.retronerd.at/actor
 https://relay.social.tigwali.fr/inbox
 https://relay.toot.yukimochi.jp/inbox
 https://relay.wagnersnetz.de/inbox
-https://relay.mstdn.live/inbox
 ```
 ## ✅🚫 relays that are restricted with allowlists
 ```
