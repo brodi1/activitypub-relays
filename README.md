@@ -34,7 +34,7 @@ https://relay.social.tigwali.fr/inbox
 https://relay.toot.yukimochi.jp/inbox
 https://relay.uggs.io/actor
 https://relay.wagnersnetz.de/inbox
-https//open.relay.pfalz.social/inbox
+https://open.relay.pfalz.social/inbox
 ```
 ## ✅🚫 relays that are restricted with allowlists
 ```
