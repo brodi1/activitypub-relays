@@ -34,12 +34,14 @@ https://relay.social.tigwali.fr/inbox
 https://relay.toot.yukimochi.jp/inbox
 https://relay.uggs.io/actor
 https://relay.wagnersnetz.de/inbox
+https//open.relay.pfalz.social/inbox
 ```
 ## ✅🚫 relays that are restricted with allowlists
 ```
 https://relay.mastodon.kr/inbox
 https://relay.furfaggotry.com/inbox | Email for approval, see website (https://relay.furfaggotry.com/).
 https://relay.asonix.dog/inbox | Owner is rather strict about who does and who doesn't get to use this relay, YMMV.
+https://de.relay.pfalz.social/inbox | Only for primarily German-language instances. Contact @maschinenraum@pfalz.social prior to joining.
 ```
 ## ❔ relays that maybe? work
 ```
