@@ -7,6 +7,7 @@ if you want to add a relay to your:
 
 
 ## ✅ active working relays
+
 ```
 https://en.relay.friendi.ca/inbox
 https://federation.stream/inbox
@@ -21,6 +22,7 @@ https://relay.fedibird.com/inbox
 https://relay.freespeech.club/inbox
 https://relay.froth.zone/inbox
 https://relay.glauca.space/inbox
+https://relay.gruenehoelle.nl/inbox
 https://relay.homunyan.com/inbox
 https://relay.intahnet.co.uk/inbox
 https://relay.k3tan.com/inbox
@@ -35,13 +37,17 @@ https://relay.toot.yukimochi.jp/inbox
 https://relay.uggs.io/actor
 https://relay.wagnersnetz.de/inbox
 ```
+
 ## ✅🚫 relays that are restricted with allowlists
+
 ```
 https://relay.mastodon.kr/inbox
 https://relay.furfaggotry.com/inbox | Email for approval, see website (https://relay.furfaggotry.com/).
 https://relay.asonix.dog/inbox | Owner is rather strict about who does and who doesn't get to use this relay, YMMV.
 ```
+
 ## ❔ relays that maybe? work
+
 ```
 https://aprelay.thebackupbox.net/inbox
 https://federation.stream/inbox | DNS can't be resolved at the moment
@@ -60,6 +66,7 @@ https://relay2.mastodon.ml/inbox
 ```
 
 ## ❌ relays that DON'T work
+
 ```
 https://ap-relay.herokuapp.com/inbox | Offline for maintenance
 https://mastodon-relay.thedoodleproject.net | 502 Bad Gateway
