@@ -12,6 +12,7 @@ if you want to add a relay to your:
 https://en.relay.friendi.ca/inbox
 https://federation.stream/inbox
 https://mastodon-relay.moew.science/inbox
+https://open.relay.pfalz.social/inbox
 https://relay.101010.pl/inbox
 https://relay.beckmeyer.us/inbox
 https://relay.c.im/inbox
@@ -31,21 +32,20 @@ https://relay.minecloud.ro/inbox
 https://relay.mistli.net/inbox
 https://relay.mstdn.live/inbox
 https://relay.pissdichal.de/inbox
-https://relay.retronerd.at/actor
+https://relay.retronerd.at/inbox
 https://relay.social.tigwali.fr/inbox
 https://relay.toot.yukimochi.jp/inbox
-https://relay.uggs.io/actor
+https://relay.uggs.io/inbox
 https://relay.wagnersnetz.de/inbox
-https://open.relay.pfalz.social/inbox
 ```
 
 ## ✅🚫 relays that are restricted with allowlists
 
 ```
+https://de.relay.pfalz.social/inbox | Only for primarily German-language instances. Contact @maschinenraum@pfalz.social prior to joining.
 https://relay.mastodon.kr/inbox
 https://relay.furfaggotry.com/inbox | Email for approval, see website (https://relay.furfaggotry.com/).
 https://relay.asonix.dog/inbox | Owner is rather strict about who does and who doesn't get to use this relay, YMMV.
-https://de.relay.pfalz.social/inbox | Only for primarily German-language instances. Contact @maschinenraum@pfalz.social prior to joining.
 ```
 
 ## ❔ relays that maybe? work
