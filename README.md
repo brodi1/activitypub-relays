@@ -38,7 +38,7 @@ https://relay.wagnersnetz.de/inbox
 ## ✅🚫 relays that are restricted with allowlists
 ```
 https://relay.mastodon.kr/inbox
-https://relay.furfaggotry.com/inbox | Email for approval, see (https://relay.furfaggotry.com/).
+https://relay.furfaggotry.com/inbox | Email for approval, see website (https://relay.furfaggotry.com/).
 https://relay.asonix.dog/inbox | Owner is rather strict about who does and who doesn't get to use this relay, YMMV.
 ```
 ## ❔ relays that maybe? work
