@@ -43,8 +43,8 @@ https://relay.wagnersnetz.de/inbox
 
 ```
 https://de.relay.pfalz.social/inbox | Only for primarily German-language instances. Contact @maschinenraum@pfalz.social prior to joining.
-https://relay.mastodon.kr/inbox
 https://relay.asonix.dog/inbox
+https://relay.mastodon.kr/inbox
 ```
 
 ## ❔ relays that maybe? work
