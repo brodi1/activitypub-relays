@@ -44,8 +44,7 @@ https://relay.wagnersnetz.de/inbox
 ```
 https://de.relay.pfalz.social/inbox | Only for primarily German-language instances. Contact @maschinenraum@pfalz.social prior to joining.
 https://relay.mastodon.kr/inbox
-https://relay.furfaggotry.com/inbox | Email for approval, see website (https://relay.furfaggotry.com/).
-https://relay.asonix.dog/inbox | Owner is rather strict about who does and who doesn't get to use this relay, YMMV.
+https://relay.asonix.dog/inbox
 ```
 
 ## ❔ relays that maybe? work
