@@ -31,6 +31,7 @@ https://relay.libranet.de/inbox
 https://relay.minecloud.ro/inbox
 https://relay.mistli.net/inbox
 https://relay.mstdn.live/inbox
+https://relay.neovibe.app/inbox
 https://relay.pissdichal.de/inbox
 https://relay.retronerd.at/inbox
 https://relay.social.tigwali.fr/inbox
@@ -45,7 +46,6 @@ https://relay.wagnersnetz.de/inbox
 https://de.relay.pfalz.social/inbox | Only for primarily German-language instances. Contact @maschinenraum@pfalz.social prior to joining.
 https://relay.asonix.dog/inbox
 https://relay.mastodon.kr/inbox
-https://relay.neovibe.app/inbox
 ```
 
 ## ❔ relays that maybe? work
