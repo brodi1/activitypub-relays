@@ -38,6 +38,7 @@ https://relay.social.tigwali.fr/inbox
 https://relay.toot.yukimochi.jp/inbox
 https://relay.uggs.io/inbox
 https://relay.wagnersnetz.de/inbox
+https://relay.wig.gl/inbox
 ```
 
 ## ✅🚫 relays that are restricted with allowlists
