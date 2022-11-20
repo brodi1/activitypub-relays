@@ -10,7 +10,6 @@ if you want to add a relay to your:
 
 ```
 https://en.relay.friendi.ca/inbox
-https://federation.stream/inbox
 https://mastodon-relay.moew.science/inbox
 https://open.relay.pfalz.social/inbox
 https://relay.101010.pl/inbox
@@ -20,7 +19,6 @@ https://relay.chocoflan.net/inbox
 https://relay.dresden.network/inbox
 https://relay.fedi.agency/inbox
 https://relay.fedibird.com/inbox
-https://relay.freespeech.club/inbox
 https://relay.froth.zone/inbox
 https://relay.glauca.space/inbox
 https://relay.gruenehoelle.nl/inbox
@@ -66,6 +64,9 @@ https://relay.nsupdate.info/inbox
 https://relay.phreedom.club/inbox
 https://relay.social.firc.de/inbox
 https://relay2.mastodon.ml/inbox
+https://relay.wagnersnetz.de/inbox | Stuck in "waiting for relay approval", but seems to work?
+https://relay.mistli.net/inbox | Stuck in "waiting for relay approval"
+https://relay.freespeech.club/inbox | Mastodon::UnexpectedResponseError: https://relay.freespeech.club/inbox returned code 502
 ```
 
 ## ❌ relays that DON'T work
