@@ -27,7 +27,6 @@ https://relay.intahnet.co.uk/inbox
 https://relay.k3tan.com/inbox
 https://relay.libranet.de/inbox
 https://relay.minecloud.ro/inbox
-https://relay.mistli.net/inbox
 https://relay.mstdn.live/inbox
 https://relay.neovibe.app/inbox
 https://relay.pissdichal.de/inbox
@@ -35,7 +34,6 @@ https://relay.retronerd.at/inbox
 https://relay.social.tigwali.fr/inbox
 https://relay.toot.yukimochi.jp/inbox
 https://relay.uggs.io/inbox
-https://relay.wagnersnetz.de/inbox
 https://relay.wig.gl/inbox
 ```
 
@@ -64,8 +62,8 @@ https://relay.nsupdate.info/inbox
 https://relay.phreedom.club/inbox
 https://relay.social.firc.de/inbox
 https://relay2.mastodon.ml/inbox
-https://relay.wagnersnetz.de/inbox | Stuck in "waiting for relay approval", but seems to work?
-https://relay.mistli.net/inbox | Stuck in "waiting for relay approval"
+https://relay.wagnersnetz.de/inbox | Causes backtrace in sidekiq on latest Mastodon
+https://relay.mistli.net/inbox | Stuck in "waiting for relay approval", but seems to work.
 https://relay.freespeech.club/inbox | Mastodon::UnexpectedResponseError: https://relay.freespeech.club/inbox returned code 502
 ```
 
