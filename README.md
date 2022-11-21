@@ -2,9 +2,14 @@
 
 if you want to add a relay to your:
 
-- mastodon instance ----> copy the URL as it is
-- pleroma instance ----> copy the URL & replace */inbox* with */actor*
+### Mastodon instance
+- Navigate to https://[YOUR_INSTANCE_HERE]/admin/relays
+- Click "Add New Relay"
+- Paste one of the urls below *as is*
+- Click "Save and Enable"
 
+### Pleroma Instance
+- Copy the URL & replace */inbox* with */actor*
 
 ## ✅ active working relays
 
