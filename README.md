@@ -49,6 +49,7 @@ https://de.relay.pfalz.social/inbox | Only for primarily German-language instanc
 https://relay.asonix.dog/inbox
 https://relay.mastodon.kr/inbox
 https://relay.dariox.club/inbox | Contact @kate@dariox.club prior to joining.
+https://streamb0x.de/inbox | Contact admin@joinmastodon.de to join the relay
 ```
 
 ## ❔ relays that maybe? work
