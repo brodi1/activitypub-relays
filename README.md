@@ -17,6 +17,7 @@ https://relay.101010.pl/inbox
 https://relay.beckmeyer.us/inbox
 https://relay.c.im/inbox
 https://relay.chocoflan.net/inbox
+https://relay.douzepoints.social/inbox
 https://relay.dresden.network/inbox
 https://relay.fedi.agency/inbox
 https://relay.fedibird.com/inbox
