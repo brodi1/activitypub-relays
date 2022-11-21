@@ -48,6 +48,7 @@ https://relay.wig.gl/inbox
 https://de.relay.pfalz.social/inbox | Only for primarily German-language instances. Contact @maschinenraum@pfalz.social prior to joining.
 https://relay.asonix.dog/inbox
 https://relay.mastodon.kr/inbox
+https://relay.dariox.club/inbox | Contact @kate@dariox.club prior to joining.
 ```
 
 ## ❔ relays that maybe? work
