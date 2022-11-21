@@ -30,7 +30,6 @@ https://relay.k3tan.com/inbox
 https://relay.libranet.de/inbox
 https://relay.minecloud.ro/inbox
 https://relay.mistli.net/inbox
-https://relay.mstdn.live/inbox
 https://relay.neovibe.app/inbox
 https://relay.pissdichal.de/inbox
 https://relay.retronerd.at/inbox
@@ -92,6 +91,7 @@ https://relay.mastodon.eric.ovh/inbox
 https://relay.mastodon.fun/inbox | 404 Not Found
 https://relay.mastodonsocial.ru/inbox
 https://relay.my-wan.de/inbox
+https://relay.mstdn.live/inbox | Disallowed by service provider
 https://relay.nazrin.moe/inbox | 502 Bad Gateway
 https://relay.paw.cafe/inbox
 https://relay.shittyurl.org/inbox | 502 Bad Gateway
