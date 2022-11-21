@@ -20,6 +20,7 @@ https://relay.chocoflan.net/inbox
 https://relay.dresden.network/inbox
 https://relay.fedi.agency/inbox
 https://relay.fedibird.com/inbox
+https://relay.flm9.me/inbox
 https://relay.freespeech.club/inbox
 https://relay.froth.zone/inbox
 https://relay.glauca.space/inbox
