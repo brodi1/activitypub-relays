@@ -14,33 +14,23 @@ if you want to add a relay to your:
 ## ✅ active working relays
 
 ```
-https://en.relay.friendi.ca/inbox
-https://federation.stream/inbox
 https://mastodon-relay.moew.science/inbox
 https://open.relay.pfalz.social/inbox
-https://relay.101010.pl/inbox
 https://relay.beckmeyer.us/inbox
-https://relay.c.im/inbox
 https://relay.chocoflan.net/inbox
 https://relay.douzepoints.social/inbox
-https://relay.dresden.network/inbox
 https://relay.fedi.agency/inbox
-https://relay.fedibird.com/inbox
 https://relay.flm9.me/inbox
-https://relay.freespeech.club/inbox
 https://relay.froth.zone/inbox
 https://relay.glauca.space/inbox
 https://relay.gruenehoelle.nl/inbox
 https://relay.homunyan.com/inbox
 https://relay.intahnet.co.uk/inbox
-https://relay.k3tan.com/inbox
 https://relay.libranet.de/inbox
 https://relay.minecloud.ro/inbox
 https://relay.mistli.net/inbox
 https://relay.neovibe.app/inbox
 https://relay.pissdichal.de/inbox
-https://relay.retronerd.at/inbox
-https://relay.social.tigwali.fr/inbox
 https://relay.toot.yukimochi.jp/inbox
 https://relay.uggs.io/inbox
 https://relay.wagnersnetz.de/inbox
@@ -55,6 +45,7 @@ https://relay.asonix.dog/inbox
 https://relay.mastodon.kr/inbox
 https://relay.dariox.club/inbox | Contact @kate@dariox.club prior to joining.
 https://streamb0x.de/inbox | Contact admin@joinmastodon.de to join the relay
+https://en.relay.friendi.ca/inbox | This relay is currently full, new joins are not accepted.
 ```
 
 ## ❔ relays that maybe? work
@@ -109,6 +100,15 @@ https://relay.travnewmatic.com/inbox | 404 Not Found
 https://relay1.mastodon.ml/inbox | 502 Bad Gateway
 https://rrfarmbot.appspot.com/inbox | 500 Server Error
 https://vtlay.polyohm.net/inbox
+https://federation.stream/inbox | DNS record does not exist
+https://relay.101010.pl/inbox | Bad cerificate
+https://relay.c.im/inbox | Times out
+https://relay.dresden.network/inbox | 502 Bad Gateway
+https://relay.fedibird.com/inbox | 404
+https://relay.freespeech.club/inbox | 502 Bad Gateway
+https://relay.k3tan.com/inbox | Error 1033
+https://relay.retronerd.at/inbox | DNS record does not exist
+https://relay.social.tigwali.fr/inbox | 504 Gateway time-out
 ```
 
 
