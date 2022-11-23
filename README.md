@@ -14,6 +14,7 @@ if you want to add a relay to your:
 ## ✅ active working relays
 
 ```
+https://relay.fedinet.social/inbox
 https://mastodon-relay.moew.science/inbox
 https://open.relay.pfalz.social/inbox
 https://relay.beckmeyer.us/inbox
