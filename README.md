@@ -15,7 +15,6 @@ if you want to add a relay to your:
 
 ```
 https://mastodon-relay.moew.science/inbox
-https://open.relay.pfalz.social/inbox
 https://relay.beckmeyer.us/inbox
 https://relay.chocoflan.net/inbox
 https://relay.douzepoints.social/inbox
@@ -46,6 +45,7 @@ https://relay.mastodon.kr/inbox
 https://relay.dariox.club/inbox | Contact @kate@dariox.club prior to joining.
 https://streamb0x.de/inbox | Contact admin@joinmastodon.de to join the relay
 https://en.relay.friendi.ca/inbox | This relay is currently full, new joins are not accepted.
+https://open.relay.pfalz.social/inbox | This relay is currently full, new joins are not accepted.
 ```
 
 ## ❔ relays that maybe? work
