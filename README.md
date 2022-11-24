@@ -16,7 +16,6 @@ if you want to add a relay to your:
 ```
 
 https://mastodon-relay.moew.science/inbox
-https://open.relay.pfalz.social/inbox
 https://relay.beckmeyer.us/inbox
 https://relay.chocoflan.net/inbox
 https://relay.douzepoints.social/inbox
@@ -44,6 +43,7 @@ https://relay.wig.gl/inbox
 ```
 https://de.relay.pfalz.social/inbox | Only for primarily German-language instances. Contact @maschinenraum@pfalz.social prior to joining.
 https://en.relay.friendi.ca/inbox | This relay is currently full, new joins are not accepted.
+https://open.relay.pfalz.social/inbox | This relay is currently full, new joins are not accepted.
 https://relay.asonix.dog/inbox
 https://relay.breakblocks.social/inbox | Only for instances primarily based around Minecraft.
 https://relay.dariox.club/inbox | Contact @kate@dariox.club prior to joining.
