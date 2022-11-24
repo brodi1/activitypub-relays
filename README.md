@@ -43,7 +43,7 @@ https://relay.wig.gl/inbox
 https://de.relay.pfalz.social/inbox | Only for primarily German-language instances. Contact @maschinenraum@pfalz.social prior to joining.
 https://en.relay.friendi.ca/inbox | This relay is currently full, new joins are not accepted.
 https://relay.asonix.dog/inbox
-https://relay.breakblocks.social/actor | Only for instances primarily based around Minecraft.
+https://relay.breakblocks.social/inbox | Only for instances primarily based around Minecraft.
 https://relay.dariox.club/inbox | Contact @kate@dariox.club prior to joining.
 https://relay.mastodon.kr/inbox
 https://streamb0x.de/inbox | Contact admin@joinmastodon.de to join the relay
