@@ -14,13 +14,14 @@ if you want to add a relay to your:
 ## ✅ active working relays
 
 ```
-https://relay.fedinet.social/inbox
+
 https://mastodon-relay.moew.science/inbox
 https://open.relay.pfalz.social/inbox
 https://relay.beckmeyer.us/inbox
 https://relay.chocoflan.net/inbox
 https://relay.douzepoints.social/inbox
 https://relay.fedi.agency/inbox
+https://relay.fedinet.social/inbox
 https://relay.flm9.me/inbox
 https://relay.froth.zone/inbox
 https://relay.glauca.space/inbox
