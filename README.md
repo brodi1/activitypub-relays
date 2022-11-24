@@ -14,11 +14,13 @@ if you want to add a relay to your:
 ## ✅ active working relays
 
 ```
+
 https://mastodon-relay.moew.science/inbox
 https://relay.beckmeyer.us/inbox
 https://relay.chocoflan.net/inbox
 https://relay.douzepoints.social/inbox
 https://relay.fedi.agency/inbox
+https://relay.fedinet.social/inbox
 https://relay.flm9.me/inbox
 https://relay.froth.zone/inbox
 https://relay.glauca.space/inbox
@@ -40,12 +42,13 @@ https://relay.wig.gl/inbox
 
 ```
 https://de.relay.pfalz.social/inbox | Only for primarily German-language instances. Contact @maschinenraum@pfalz.social prior to joining.
-https://relay.asonix.dog/inbox
-https://relay.mastodon.kr/inbox
-https://relay.dariox.club/inbox | Contact @kate@dariox.club prior to joining.
-https://streamb0x.de/inbox | Contact admin@joinmastodon.de to join the relay
 https://en.relay.friendi.ca/inbox | This relay is currently full, new joins are not accepted.
 https://open.relay.pfalz.social/inbox | This relay is currently full, new joins are not accepted.
+https://relay.asonix.dog/inbox
+https://relay.breakblocks.social/inbox | Only for instances primarily based around Minecraft.
+https://relay.dariox.club/inbox | Contact @kate@dariox.club prior to joining.
+https://relay.mastodon.kr/inbox
+https://streamb0x.de/inbox | Contact admin@joinmastodon.de to join the relay
 ```
 
 ## ❔ relays that maybe? work
