@@ -16,6 +16,7 @@ if you want to add a relay to your:
 ```
 
 https://mastodon-relay.moew.science/inbox
+https://relay.an.exchange/inbox
 https://relay.beckmeyer.us/inbox
 https://relay.chocoflan.net/inbox
 https://relay.douzepoints.social/inbox
