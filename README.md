@@ -10,7 +10,7 @@ if you want to add a relay to your:
 
 ### Pleroma Instance
 - Copy the URL & replace */inbox* with */actor*
-- Note that some relays only work with */actor* and not */inbox*
+- Note that some relays *only* work with */actor* and not */inbox*
 
 ## ✅ active working relays
 
@@ -34,6 +34,9 @@ https://relay.wagnersnetz.de/actor
 https://relay.wig.gl/actor
 https://relay.dog/actor
 https://relay.darmstadt.social/actor
+https://relay.gruenehoelle.nl/actor
+https://mastodon-relay.moew.science/actor
+https://relay.douzepoints.social/actor
 ```
 
 ## ✅🚫 relays that are restricted with allowlists
@@ -56,7 +59,7 @@ https://relay.chocoflan.net/actor | Only for primarily Spanish-language instance
 ```
 https://relay.chemnitz.social/inbox | Connection times out
 https://relay.kretschmann.social/inbox | Redirects to https://kretschmann.social/
-https://relay.glauca.space/inbox | Slow/unresponsive
+https://relay.glauca.space/actor | Slow/unresponsive
 ```
 
 ## ❌ relays that DON'T work
@@ -101,9 +104,6 @@ https://relay.freespeech.club/inbox | 502 Bad Gateway
 https://relay.k3tan.com/inbox | Error 1033
 https://relay.retronerd.at/inbox | DNS record does not exist
 https://relay.social.tigwali.fr/inbox | 504 Gateway time-out
-https://mastodon-relay.moew.science/inbox | 404
-https://relay.douzepoints.social/inbox | 404
-https://relay.gruenehoelle.nl/inbox | 404
 https://relay2.mastodon.ml/inbox | 502 Bad Gateway
 https://relay.fediverse.life/inbox | DNS Record doesn't exist
 https://relay.nsupdate.info/inbox | Offline for maintenance
