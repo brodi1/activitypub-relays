@@ -14,29 +14,23 @@ if you want to add a relay to your:
 ## ✅ active working relays
 
 ```
-
-https://mastodon-relay.moew.science/inbox
 https://relay.an.exchange/inbox
 https://relay.beckmeyer.us/inbox
-https://relay.chocoflan.net/inbox
-https://relay.douzepoints.social/inbox
 https://relay.fedi.agency/inbox
 https://relay.fedinet.social/inbox
-https://relay.flm9.me/inbox
-https://relay.froth.zone/inbox
-https://relay.glauca.space/inbox
+https://relay.flm9.me/actor
+https://relay.froth.zone/actor
 https://relay.gruenehoelle.nl/inbox
 https://relay.homunyan.com/inbox
-https://relay.intahnet.co.uk/inbox
-https://relay.libranet.de/inbox
+https://relay.intahnet.co.uk/actor
+https://relay.libranet.de/actor
 https://relay.minecloud.ro/inbox
 https://relay.mistli.net/inbox
-https://relay.neovibe.app/inbox
-https://relay.pissdichal.de/inbox
+https://relay.pissdichal.de/actor
 https://relay.toot.yukimochi.jp/inbox
-https://relay.uggs.io/inbox
-https://relay.wagnersnetz.de/inbox
-https://relay.wig.gl/inbox
+https://relay.uggs.io/actor
+https://relay.wagnersnetz.de/actor
+https://relay.wig.gl/actor
 ```
 
 ## ✅🚫 relays that are restricted with allowlists
@@ -50,6 +44,8 @@ https://relay.breakblocks.social/inbox | Only for instances primarily based arou
 https://relay.dariox.club/inbox | Contact @kate@dariox.club prior to joining.
 https://relay.mastodon.kr/inbox
 https://streamb0x.de/inbox | Contact admin@joinmastodon.de to join the relay
+https://relay.neovibe.app/actor | Must be approved by NeoVibe admin. For faster review of your instance, please send a Direct Messsage to @neovibe@neovibe.app
+https://relay.chocoflan.net/actor | Only for primarily Spanish-language instances.
 ```
 
 ## ❔ relays that maybe? work
@@ -68,7 +64,7 @@ https://relay.nfld.uk/inbox
 https://relay.nsupdate.info/inbox
 https://relay.phreedom.club/inbox
 https://relay.social.firc.de/inbox
-https://relay2.mastodon.ml/inbox
+https://relay.glauca.space/inbox
 ```
 
 ## ❌ relays that DON'T work
@@ -113,6 +109,10 @@ https://relay.freespeech.club/inbox | 502 Bad Gateway
 https://relay.k3tan.com/inbox | Error 1033
 https://relay.retronerd.at/inbox | DNS record does not exist
 https://relay.social.tigwali.fr/inbox | 504 Gateway time-out
+https://mastodon-relay.moew.science/inbox | 404
+https://relay.douzepoints.social/inbox | 404
+https://relay.gruenehoelle.nl/inbox | 404
+https://relay2.mastodon.ml/inbox | 502 Bad Gateway
 ```
 
 
