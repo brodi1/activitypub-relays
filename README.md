@@ -10,6 +10,7 @@ if you want to add a relay to your:
 
 ### Pleroma Instance
 - Copy the URL & replace */inbox* with */actor*
+- Note that some relays only work with */actor* and not */inbox*
 
 ## ✅ active working relays
 
