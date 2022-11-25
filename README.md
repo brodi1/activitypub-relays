@@ -32,6 +32,8 @@ https://relay.toot.yukimochi.jp/inbox
 https://relay.uggs.io/actor
 https://relay.wagnersnetz.de/actor
 https://relay.wig.gl/actor
+https://relay.dog/actor
+https://relay.darmstadt.social/actor
 ```
 
 ## ✅🚫 relays that are restricted with allowlists
@@ -52,20 +54,9 @@ https://relay.chocoflan.net/actor | Only for primarily Spanish-language instance
 ## ❔ relays that maybe? work
 
 ```
-https://aprelay.thebackupbox.net/inbox
-https://federation.stream/inbox | DNS can't be resolved at the moment
-https://relay.chemnitz.social/inbox
-https://relay.darmstadt.social/inbox
-https://relay.dog/inbox
-https://relay.fediverse.life/inbox
-https://relay.kretschmann.social/inbox
-https://relay.mastodon.libresilicon.com/inbox
-https://relay.mastodon.scot/inbox
-https://relay.nfld.uk/inbox
-https://relay.nsupdate.info/inbox
-https://relay.phreedom.club/inbox
-https://relay.social.firc.de/inbox
-https://relay.glauca.space/inbox
+https://relay.chemnitz.social/inbox | Connection times out
+https://relay.kretschmann.social/inbox | Redirects to https://kretschmann.social/
+https://relay.glauca.space/inbox | Slow/unresponsive
 ```
 
 ## ❌ relays that DON'T work
@@ -114,6 +105,15 @@ https://mastodon-relay.moew.science/inbox | 404
 https://relay.douzepoints.social/inbox | 404
 https://relay.gruenehoelle.nl/inbox | 404
 https://relay2.mastodon.ml/inbox | 502 Bad Gateway
+https://relay.fediverse.life/inbox | DNS Record doesn't exist
+https://relay.nsupdate.info/inbox | Offline for maintenance
+https://relay.nfld.uk/inbox | 410 Gone
+https://relay.mastodon.scot/inbox | DNS Record doesn't exist
+https://relay.mastodon.libresilicon.com/inbox | SSL Cert invalid
+https://relay.social.firc.de/inbox | DNS Record doesn't exist
+https://relay.phreedom.club/inbox | DNS Record doesn't exist
+https://federation.stream/inbox | DNS Record doesn't exist
+https://aprelay.thebackupbox.net/inbox | Snarky error messages?
 ```
 
 
