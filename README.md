@@ -33,7 +33,6 @@ https://relay.wagnersnetz.de/inbox
 https://relay.wig.gl/inbox
 https://relay.dog/inbox
 https://relay.darmstadt.social/inbox
-https://relay.gruenehoelle.nl/inbox
 https://mastodon-relay.moew.science/inbox
 https://relay.douzepoints.social/inbox
 ```
@@ -59,7 +58,6 @@ https://relay.chocoflan.net/inbox | Only for primarily Spanish-language instance
 https://relay.chemnitz.social/inbox | Connection times out
 https://relay.kretschmann.social/inbox | Redirects to https://kretschmann.social/
 https://relay.glauca.space/inbox | Slow/unresponsive
-https://aprelay.thebackupbox.net/inbox | Snarky error messages?
 ```
 
 ## ❌ relays that DON'T work
@@ -113,6 +111,7 @@ https://relay.mastodon.libresilicon.com/inbox | SSL Cert invalid
 https://relay.social.firc.de/inbox | DNS Record doesn't exist
 https://relay.phreedom.club/inbox | DNS Record doesn't exist
 https://federation.stream/inbox | DNS Record doesn't exist
+https://aprelay.thebackupbox.net/inbox | Bad certificate; Common name invalid
 ```
 
 
