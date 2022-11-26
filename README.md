@@ -10,7 +10,6 @@ if you want to add a relay to your:
 
 ### Pleroma Instance
 - Copy the URL & replace */inbox* with */actor*
-- Note that some relays *only* work with */actor* and not */inbox*
 
 ## ✅ active working relays
 
@@ -19,24 +18,24 @@ https://relay.an.exchange/inbox
 https://relay.beckmeyer.us/inbox
 https://relay.fedi.agency/inbox
 https://relay.fedinet.social/inbox
-https://relay.flm9.me/actor
-https://relay.froth.zone/actor
+https://relay.flm9.me/inbox
+https://relay.froth.zone/inbox
 https://relay.gruenehoelle.nl/inbox
 https://relay.homunyan.com/inbox
-https://relay.intahnet.co.uk/actor
-https://relay.libranet.de/actor
+https://relay.intahnet.co.uk/inbox
+https://relay.libranet.de/inbox
 https://relay.minecloud.ro/inbox
 https://relay.mistli.net/inbox
-https://relay.pissdichal.de/actor
+https://relay.pissdichal.de/inbox
 https://relay.toot.yukimochi.jp/inbox
-https://relay.uggs.io/actor
-https://relay.wagnersnetz.de/actor
-https://relay.wig.gl/actor
-https://relay.dog/actor
-https://relay.darmstadt.social/actor
-https://relay.gruenehoelle.nl/actor
-https://mastodon-relay.moew.science/actor
-https://relay.douzepoints.social/actor
+https://relay.uggs.io/inbox
+https://relay.wagnersnetz.de/inbox
+https://relay.wig.gl/inbox
+https://relay.dog/inbox
+https://relay.darmstadt.social/inbox
+https://relay.gruenehoelle.nl/inbox
+https://mastodon-relay.moew.science/inbox
+https://relay.douzepoints.social/inbox
 ```
 
 ## ✅🚫 relays that are restricted with allowlists
@@ -50,8 +49,8 @@ https://relay.breakblocks.social/inbox | Only for instances primarily based arou
 https://relay.dariox.club/inbox | Contact @kate@dariox.club prior to joining.
 https://relay.mastodon.kr/inbox
 https://streamb0x.de/inbox | Contact admin@joinmastodon.de to join the relay
-https://relay.neovibe.app/actor | Must be approved by NeoVibe admin. For faster review of your instance, please send a Direct Messsage to @neovibe@neovibe.app
-https://relay.chocoflan.net/actor | Only for primarily Spanish-language instances.
+https://relay.neovibe.app/inbox | Must be approved by NeoVibe admin. For faster review of your instance, please send a Direct Messsage to @neovibe@neovibe.app
+https://relay.chocoflan.net/inbox | Only for primarily Spanish-language instances.
 ```
 
 ## ❔ relays that maybe? work
@@ -59,7 +58,8 @@ https://relay.chocoflan.net/actor | Only for primarily Spanish-language instance
 ```
 https://relay.chemnitz.social/inbox | Connection times out
 https://relay.kretschmann.social/inbox | Redirects to https://kretschmann.social/
-https://relay.glauca.space/actor | Slow/unresponsive
+https://relay.glauca.space/inbox | Slow/unresponsive
+https://aprelay.thebackupbox.net/inbox | Snarky error messages?
 ```
 
 ## ❌ relays that DON'T work
@@ -113,7 +113,6 @@ https://relay.mastodon.libresilicon.com/inbox | SSL Cert invalid
 https://relay.social.firc.de/inbox | DNS Record doesn't exist
 https://relay.phreedom.club/inbox | DNS Record doesn't exist
 https://federation.stream/inbox | DNS Record doesn't exist
-https://aprelay.thebackupbox.net/inbox | Snarky error messages?
 ```
 
 
