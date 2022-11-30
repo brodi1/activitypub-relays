@@ -37,6 +37,7 @@ https://relay.toot.yukimochi.jp/inbox
 https://relay.uggs.io/inbox
 https://relay.wagnersnetz.de/inbox
 https://relay.wig.gl/inbox
+https://relay.masto.la/inbox
 ```
 
 ## ✅🚫 relays that are restricted with allowlists
