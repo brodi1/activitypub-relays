@@ -24,6 +24,7 @@ https://relay.gruenehoelle.nl/inbox
 https://relay.homunyan.com/inbox
 https://relay.intahnet.co.uk/inbox
 https://relay.libranet.de/inbox
+https://relay.masto.la/inbox
 https://relay.minecloud.ro/inbox
 https://relay.mistli.net/inbox
 https://relay.pissdichal.de/inbox
