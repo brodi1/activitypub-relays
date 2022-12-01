@@ -14,30 +14,28 @@ if you want to add a relay to your:
 ## ✅ active working relays
 
 ```
-
-https://mastodon-relay.moew.science/inbox
 https://relay.an.exchange/inbox
 https://relay.beckmeyer.us/inbox
-https://relay.chocoflan.net/inbox
-https://relay.douzepoints.social/inbox
 https://relay.fedi.agency/inbox
 https://relay.fedinet.social/inbox
 https://relay.flm9.me/inbox
 https://relay.froth.zone/inbox
-https://relay.glauca.space/inbox
 https://relay.gruenehoelle.nl/inbox
 https://relay.homunyan.com/inbox
 https://relay.intahnet.co.uk/inbox
 https://relay.libranet.de/inbox
+https://relay.masto.la/inbox
 https://relay.minecloud.ro/inbox
 https://relay.mistli.net/inbox
-https://relay.neovibe.app/inbox
 https://relay.pissdichal.de/inbox
 https://relay.toot.yukimochi.jp/inbox
 https://relay.uggs.io/inbox
 https://relay.wagnersnetz.de/inbox
 https://relay.wig.gl/inbox
-https://relay.masto.la/inbox
+https://relay.dog/inbox
+https://relay.darmstadt.social/inbox
+https://mastodon-relay.moew.science/inbox
+https://relay.douzepoints.social/inbox
 ```
 
 ## ✅🚫 relays that are restricted with allowlists
@@ -51,25 +49,16 @@ https://relay.breakblocks.social/inbox | Only for instances primarily based arou
 https://relay.dariox.club/inbox | Contact @kate@dariox.club prior to joining.
 https://relay.mastodon.kr/inbox
 https://streamb0x.de/inbox | Contact admin@joinmastodon.de to join the relay
+https://relay.neovibe.app/inbox | Must be approved by NeoVibe admin. For faster review of your instance, please send a Direct Messsage to @neovibe@neovibe.app
+https://relay.chocoflan.net/inbox | Only for primarily Spanish-language instances.
 ```
 
 ## ❔ relays that maybe? work
 
 ```
-https://aprelay.thebackupbox.net/inbox
-https://federation.stream/inbox | DNS can't be resolved at the moment
-https://relay.chemnitz.social/inbox
-https://relay.darmstadt.social/inbox
-https://relay.dog/inbox
-https://relay.fediverse.life/inbox
-https://relay.kretschmann.social/inbox
-https://relay.mastodon.libresilicon.com/inbox
-https://relay.mastodon.scot/inbox
-https://relay.nfld.uk/inbox
-https://relay.nsupdate.info/inbox
-https://relay.phreedom.club/inbox
-https://relay.social.firc.de/inbox
-https://relay2.mastodon.ml/inbox
+https://relay.chemnitz.social/inbox | Connection times out
+https://relay.kretschmann.social/inbox | Redirects to https://kretschmann.social/
+https://relay.glauca.space/inbox | Slow/unresponsive
 ```
 
 ## ❌ relays that DON'T work
@@ -114,6 +103,16 @@ https://relay.freespeech.club/inbox | 502 Bad Gateway
 https://relay.k3tan.com/inbox | Error 1033
 https://relay.retronerd.at/inbox | DNS record does not exist
 https://relay.social.tigwali.fr/inbox | 504 Gateway time-out
+https://relay2.mastodon.ml/inbox | 502 Bad Gateway
+https://relay.fediverse.life/inbox | DNS Record doesn't exist
+https://relay.nsupdate.info/inbox | Offline for maintenance
+https://relay.nfld.uk/inbox | 410 Gone
+https://relay.mastodon.scot/inbox | DNS Record doesn't exist
+https://relay.mastodon.libresilicon.com/inbox | SSL Cert invalid
+https://relay.social.firc.de/inbox | DNS Record doesn't exist
+https://relay.phreedom.club/inbox | DNS Record doesn't exist
+https://federation.stream/inbox | DNS Record doesn't exist
+https://aprelay.thebackupbox.net/inbox | Bad certificate; Common name invalid
 ```
 
 
