@@ -41,6 +41,7 @@ https://relay.douzepoints.social/inbox
 ## ✅🚫 relays that are restricted with allowlists
 
 ```
+https://relay.foxyhole.io/inbox | Only Italian and Inglese languages / non-profit / for info contact @redhunt07@www.foxyhole.io prior to joining.
 https://de.relay.pfalz.social/inbox | Only for primarily German-language instances. Contact @maschinenraum@pfalz.social prior to joining.
 https://en.relay.friendi.ca/inbox | This relay is currently full, new joins are not accepted.
 https://open.relay.pfalz.social/inbox | This relay is currently full, new joins are not accepted.
