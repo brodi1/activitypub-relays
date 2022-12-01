@@ -34,7 +34,6 @@ https://relay.wagnersnetz.de/inbox
 https://relay.wig.gl/inbox
 https://relay.dog/inbox
 https://relay.darmstadt.social/inbox
-https://mastodon-relay.moew.science/inbox
 https://relay.douzepoints.social/inbox
 ```
 
