@@ -28,6 +28,7 @@ https://relay.masto.la/inbox
 https://relay.minecloud.ro/inbox
 https://relay.mistli.net/inbox
 https://relay.pissdichal.de/inbox
+https://relay.kanoa.de/inbox
 https://relay.toot.yukimochi.jp/inbox
 https://relay.uggs.io/inbox
 https://relay.wagnersnetz.de/inbox
