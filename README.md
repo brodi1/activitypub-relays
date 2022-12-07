@@ -52,6 +52,7 @@ https://streamb0x.de/inbox | Contact admin@joinmastodon.de to join the relay
 https://relay.bau-ha.us/inbox | thuringia + middle/east germany / non-profit / infosec contact _mt@social.bau-ha.us prior to joining.
 https://relay.neovibe.app/inbox | Must be approved by NeoVibe admin. For faster review of your instance, please send a Direct Messsage to @neovibe@neovibe.app
 https://relay.chocoflan.net/inbox | Only for primarily Spanish-language instances.
+https://relay.gay | Intended for queer/lgbtiqa communities. Contact @effy@effy.space prior to joining.
 ```
 
 ## ❔ relays that maybe? work
